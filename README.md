@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m looking to design A Custom Chess AI Algorithm<br>🌐I currently program with Python<br>📝I am currently Studying for A-Levels<br>✨I am looking to learn Pytorch<br><br>🤫 Working on a secret project <br>
+🔭 I’m looking to design A Custom Chess AI Algorithm<br>🌐I currently program with Python<br>📝I am currently Studying for A-Levels<br>✨I am looking to learn Pytorch<br><br>🤫Working on a secret project <br>
 
 
 ## 🌐 Socials:
