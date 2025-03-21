@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Nathan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndieppe&label=Profile%20views&color=0e75b6&style=flat" alt="ndieppe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndieppe&label=Profile%20views&color=0e75b6&style=flat" alt="ndieppe" /> <img src="https://img.shields.io/github/stars/ndieppe?style=flat" alt="stars" </p>
+
 
 # 💫 About Me:
 🔭 I’m looking to design A Custom Chess AI Algorithm<br>🌐I currently program with Python<br>📝I am currently Studying for A-Levels<br>✨I am looking to learn Pytorch<br><br>
@@ -14,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ndieppe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=ndieppe&icon=0&color=0)](https://visitcount.itsvg.in) ![GitHub User's stars](https://img.shields.io/github/stars/ndieppe)
+[![](https://visitcount.itsvg.in/api?id=ndieppe&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 
 
