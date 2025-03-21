@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ndieppe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=ndieppe&icon=0&color=0)](https://visitcount.itsvg.in)
-![GitHub User's stars](https://img.shields.io/github/stars/ndipee)
+![GitHub User's stars](https://img.shields.io/github/stars/ndieppe)
 
 
 
